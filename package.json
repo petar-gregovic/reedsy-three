@@ -1,0 +1,34 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "reedsy question 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petar-gregovic/reedsy-three.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "reedsy",
+    "question",
+    "three"
+  ],
+  "author": "Petar G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petar-gregovic/reedsy-three/issues"
+  },
+  "homepage": "https://github.com/petar-gregovic/reedsy-three#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-develop-server": "^0.5.2",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
